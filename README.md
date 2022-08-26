@@ -10,11 +10,7 @@
     </a>
 </div>
 
-
----
-## Technology Stack
-
----
+# Technology Stack
 
 Backend
   
