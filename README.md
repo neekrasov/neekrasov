@@ -43,6 +43,4 @@ Tools
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
 Stats
-
-![neekrasov github stats](https://github-readme-stats.vercel.app/api?username=neekrasov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![neekrasov Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neekrasov&layout=compact&count_private=true&theme=dracula)
