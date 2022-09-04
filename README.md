@@ -1,4 +1,4 @@
-# Hi there 👋 I'm a web developer
+# Hi there 👋 I'm a backend developer
 
 <div>
     <strong style = "font-size: 20px"> Connect with me 👉 </strong> 
