@@ -34,6 +34,8 @@ Databases
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat&logo=Postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch)
 
 Tools
 
