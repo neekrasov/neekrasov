@@ -16,8 +16,9 @@ Backend
   
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=FastAPI)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat&logo=Django)
+![Blacksheep](https://img.shields.io/badge/-Blacksheep-black?style=flat)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-blue?style=flat&logo=Aiogram)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat&logo=Django)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat&logo=Django)
 
 
@@ -32,16 +33,15 @@ Frontend (Base level)
 
 Databases
 
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat&logo=Postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch)
 
 Tools
 
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat&logo=postman)
 
