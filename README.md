@@ -13,10 +13,10 @@ Backend
   
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=FastAPI)
-![Blacksheep](https://img.shields.io/badge/-Blacksheep-black?style=flat)
-![Aiogram](https://img.shields.io/badge/-Aiogram-blue?style=flat&logo=Aiogram)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat&logo=Django)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat&logo=Django)
+![Aiohttp](https://img.shields.io/badge/-Aiohttp-0e1821?style=flat&logo=Aiohttp&logoColor=blue)
+![Blacksheep](https://img.shields.io/badge/-Blacksheep-031019?style=flat&logo=Blacksheep)
+![Aiogram](https://img.shields.io/badge/-Aiogram-120940?style=flat&logo=telegram)
+![Django Rest Framework](https://img.shields.io/badge/DRF-470220?style=flat&logo=Django)
 
 
 Frontend (Base level)  
@@ -34,6 +34,10 @@ Databases
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat&logo=Postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+
+Brokers
+
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=RabbitMQ)
 
 Tools
 
