@@ -17,7 +17,6 @@ Backend
 ![gRPC](https://img.shields.io/badge/-gRPC-031019?style=flat&logo=google)
 ![Blacksheep](https://img.shields.io/badge/-Blacksheep-031019?style=flat&logo=Blacksheep)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-120940?style=flat&logo=telegram)
-![Django Rest Framework](https://img.shields.io/badge/DRF-470220?style=flat&logo=Django)
 
 
 Frontend (Base level)  
