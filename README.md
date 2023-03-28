@@ -14,6 +14,7 @@ Backend
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=FastAPI)
 ![Aiohttp](https://img.shields.io/badge/-Aiohttp-0e1821?style=flat&logo=Aiohttp&logoColor=blue)
+![gRPC](https://img.shields.io/badge/-gRPC-031019?style=flat&logo=google)
 ![Blacksheep](https://img.shields.io/badge/-Blacksheep-031019?style=flat&logo=Blacksheep)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-120940?style=flat&logo=telegram)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-470220?style=flat&logo=Django)
@@ -45,10 +46,6 @@ Tools
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat&logo=postman)
-
-Other
-
-![Java](https://img.shields.io/badge/-Java-important?style=flat&logo=java)
 
 Stats  
   
