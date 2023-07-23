@@ -1,4 +1,4 @@
-# Backend developer
+## Backend developer
 
 <div>
     <strong style = "font-size: 20px"> Connect with me 👉 </strong> 
@@ -7,44 +7,36 @@
     </a>
 </div>
 
-# Technology Stack
+### Technology Stack
 
-Backend
-  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=FastAPI)
-![Aiohttp](https://img.shields.io/badge/-Aiohttp-0e1821?style=flat&logo=Aiohttp&logoColor=blue)
-![gRPC](https://img.shields.io/badge/-gRPC-031019?style=flat&logo=google)
-![Blacksheep](https://img.shields.io/badge/-Blacksheep-031019?style=flat&logo=Blacksheep)
-![Aiogram](https://img.shields.io/badge/-Aiogram-120940?style=flat&logo=telegram)
+Languages
 
-
-Frontend (Base level)  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=black)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=html5&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+![](https://img.shields.io/badge/-Golang-black?style=flat&logo=Go)
+![](https://img.shields.io/badge/-Python-181717?style=flat&logo=Python)
+![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
 
 Databases
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat&logo=Postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=Postgresql)
+![](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=ffffff)
+![](https://img.shields.io/badge/-Redis-181717?style=flat-square&logo=Redis)
+![](https://img.shields.io/badge/-ClickHouse-black?style=flat-square&logo=ClickHouse)
+![](https://img.shields.io/badge/-Elasticsearch-181717?style=flat&logo=Elasticsearch&logoColor=white)
 
 Brokers
 
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=RabbitMQ)
+![](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=RabbitMQ)
+![](https://img.shields.io/badge/-NATS-black?style=flat&logo=Nintendo)
 
 Tools
 
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat&logo=postman)
+![](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/GitLab-black?style=flat&logo=Gitlab)
+![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)
+![](https://img.shields.io/badge/Insomnia-181717?style=flat&logo=Insomnia)
 
 Stats  
   
