@@ -13,7 +13,6 @@ Languages
 
 ![](https://img.shields.io/badge/-Golang-black?style=flat&logo=Go)
 ![](https://img.shields.io/badge/-Python-181717?style=flat&logo=Python)
-![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
 
 Databases
 
